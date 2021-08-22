@@ -1,6 +1,0 @@
-#!/bin/bash
-dnf install -y httpd httpd-tools httpd-devel httpd-manual mod_ssl
-systemctl start httpd.service
-mv /var/www/html/index.html  /var/www/html/index.bak
-bash -c 'echo "<html><h1>Hello, Tencent Cloud!</h1></html>" > /var/www/html/index.html'
-systemctl enable httpd
