@@ -1,5 +1,5 @@
 # Tencent-Cloud-Day
-### 9월 Tencent Cloud Media Game 특화 솔루션 온라인 교육
+### 9월 Tencent Cloud Media 게임 특화 솔루션 온라인 교육
 
 - 일시 : 2021년 9월 30일 오후 1:00 ~ 5:00
 - 장소 : Webinar
