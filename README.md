@@ -12,5 +12,5 @@
 |1:30 ~ 2:00 | 미니프로그램 소개 |
 |2:00 ~ 2:15 | Break Time |
 |2:15 ~ 3:15 | 미니프로그램 핸즈온 | 
-|3:15 ~ 5:00 | Hands-on Lab(CSS,LVB) |
+|3:15 ~ 5:00 | Hands-on Lab(CSS) |
 |5:00 ~ 5:10 | Wrap-up, Survey |
